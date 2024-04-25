@@ -1,2 +1,2 @@
-# Website-card
+# Website-card with JavaScript
 Card for Tutorial site.
